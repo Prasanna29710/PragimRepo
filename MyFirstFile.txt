@@ -2,4 +2,4 @@ Hi am Dvlpr2 from india.
 Good Developr1 cloned 
 to check .git file
 
-this is to check merge reqst......
+now, this is to check merge reqst
